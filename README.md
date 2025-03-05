@@ -2,7 +2,7 @@
 - 👀 Tenho imenso interesse no mundo dos dados!
 - 🌱 Atualmente estou graduando em Análise e Desenvolvimento de Sistemas. Antes mesmo de iniciar a faculdade, já comecei a me capacitar em SQL, MySQL, Python, Excel e Power BI.
 - 💞️ Estou buscando colaborar com times e empresas da área de dados.
-- 📫 Como chegar até mim: www.linkedin.com/in/arthur-henriqueads
+- 📫 Como chegar até mim: www.linkedin.com/in/arthur-henriqueads ou arthurleibhz@gmail.com
 - ⚡ Fun fact: adoro jogar!
 
 <!---
